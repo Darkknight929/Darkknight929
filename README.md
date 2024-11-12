@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ... hacking
 - 💞️ I’m looking to collaborate on ... any topics related to software, games, social networkimng,etc.
 - 📫 How to reach me ... github @dark knight 929
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+
 
 <!---
 Darkknight929/Darkknight929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
